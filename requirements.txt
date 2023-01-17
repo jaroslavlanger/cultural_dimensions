@@ -1,0 +1,16 @@
+numpy
+pandas
+tabulate
+geopandas
+scipy
+sympy
+statsmodels
+scikit-learn
+matplotlib
+mplcursors
+ipympl
+seaborn
+jupyter
+tqdm
+requests
+lxml
